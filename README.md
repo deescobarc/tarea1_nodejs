@@ -1,10 +1,7 @@
 #Bonus para la primera entrega
 
 
-#Debe descargar el repositorio luego ejecutar el programa así:
-
-
-#Para correr el programa debe ingresar desde la terminal o consola y ejecutar
+#Debe descargar el repositorio luego ejecutar el programa desde la terminal o consola y ejecutar
 
 
 #$node index
