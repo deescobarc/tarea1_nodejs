@@ -1,8 +1,11 @@
 #Bonus para la primera entrega
 
 
-#Debe descargar el repositorio luego ejecutar el programa desde la terminal o consola y ejecutar
+#Debe descargar el repositorio luego abrir la terminal o consola en la carpeta descomprimida y ejecutar
 
+#npm install
+
+#Luego se ejecuta el programa con el comando:
 
 #$node index
 
